@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vectorete/business-network-topology">
+  <a href="https://github.com/victorkvor/business-network-topology">
     <img src="images/logo.png" alt="Logo" width="30%">
   </a>
 
@@ -20,14 +20,14 @@
 <p align="center">
 A packet tracer project that represents a secure network topology design for a medium-small IT consulting business to ensure efficient operations, secure data management, and seamless communication.
     <br />
-    <a href="https://github.com/vectorete/business-network-topology"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/victorkvor/business-network-topology"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vectorete/business-network-topology">View Demo</a>
+    <a href="https://github.com/victorkvor/business-network-topology">View Demo</a>
     ·
-    <a href="https://github.com/vectorete/business-network-topology/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/victorkvor/business-network-topology/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/vectorete/business-network-topology/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/victorkvor/business-network-topology/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@ A packet tracer project that represents a secure network topology design for a m
 <!-- ABOUT THE PROJECT -->
 ## 🔎 About The Project <a id="about-the-project"></a>
 
-  <a href="https://github.com/vectorete/business-network-topology">
+  <a href="https://github.com/victorkvor/business-network-topology">
     <img src="images/topology.png" alt="Logo" width="100%">
   </a>
 
@@ -194,7 +194,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/vectorete/business-network-topology.git
+    git clone https://github.com/victorkvor/business-network-topology.git
     ```
 
 2. **Open the project file**:
@@ -309,22 +309,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Victor Kravchuk Vorkevych - victorkravchuk19@gmail.com
 
-Project Link: [https://github.com/vectorete/business-network-topology](https://github.com/vectorete/business-network-topology)
+Project Link: [https://github.com/victorkvor/business-network-topology](https://github.com/victorkvor/business-network-topology)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vectorete/business-network-topology.svg?style=for-the-badge
-[contributors-url]: https://github.com/vectorete/business-network-topology/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vectorete/business-network-topology.svg?style=for-the-badge
-[forks-url]: https://github.com/vectorete/business-network-topology/network/members
-[stars-shield]: https://img.shields.io/github/stars/vectorete/business-network-topology.svg?style=for-the-badge
-[stars-url]: https://github.com/vectorete/business-network-topology/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vectorete/business-network-topology.svg?style=for-the-badge
-[issues-url]: https://github.com/vectorete/business-network-topology/issues
-[license-shield]: https://img.shields.io/github/license/vectorete/business-network-topology.svg?style=for-the-badge
-[license-url]: https://github.com/vectorete/business-network-topology/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/victorkvor/business-network-topology.svg?style=for-the-badge
+[contributors-url]: https://github.com/victorkvor/business-network-topology/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/victorkvor/business-network-topology.svg?style=for-the-badge
+[forks-url]: https://github.com/victorkvor/business-network-topology/network/members
+[stars-shield]: https://img.shields.io/github/stars/victorkvor/business-network-topology.svg?style=for-the-badge
+[stars-url]: https://github.com/victorkvor/business-network-topology/stargazers
+[issues-shield]: https://img.shields.io/github/issues/victorkvor/business-network-topology.svg?style=for-the-badge
+[issues-url]: https://github.com/victorkvor/business-network-topology/issues
+[license-shield]: https://img.shields.io/github/license/victorkvor/business-network-topology.svg?style=for-the-badge
+[license-url]: https://github.com/victorkvor/business-network-topology/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/victorkvor
 [product-project]: images/projectimg.png
